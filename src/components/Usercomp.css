@@ -1,0 +1,15 @@
+.usercomp{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid grey;
+    padding:0.5rem
+}
+
+.initial{
+    background-color: green;
+    padding:1rem;
+    height: 1rem;
+    border-radius: 10%;
+}
