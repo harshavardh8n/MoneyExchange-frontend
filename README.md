@@ -1,6 +1,6 @@
 # MoneyExchange Frontend
 
-**MoneyExchange Frontend** is a React.js application that allows users to exchange virtual currencies. This simple MERN stack app provides an easy-to-use interface for viewing exchange rates, performing currency exchanges, and managing user balances.
+**MoneyExchange Frontend** is a compponent of a full stack MERN application that allows users to exchange virtual currencies. This simple MERN stack app provides an easy-to-use interface for viewing exchange rates, performing currency exchanges, and managing user balances.
 
 ## Features
 
